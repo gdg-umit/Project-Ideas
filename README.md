@@ -28,10 +28,10 @@ Contributions are welcome! Follow these steps to contribute:
 Clearly describe the problem your project solves or addresses.
 
 ## Suggested Tech Stack
-- Frontend: (e.g., React, Angular)
-- Backend: (e.g., Node.js, Django)
-- Database: (e.g., MongoDB, MySQL)
-- Others: (e.g., Docker, GitHub Actions)
+- Frontend: 
+- Backend:
+- Database:
+- Others: (e.g., Libraries)
 
 ## Features
 - Feature 1
